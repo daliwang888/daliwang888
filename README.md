@@ -3,7 +3,8 @@
 <!--- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 🔗 Follow me on YouTube: 王大丽的生活 Dali's Life
+- 🔗 My website/blog: dalislife.com
+- 🎬 Follow me on YouTube: 王大丽的生活 Dali's Life
 - 📫 Reach me at dali.wang888@gmail.com
 
 <!---
