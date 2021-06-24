@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @daliwang888
-- 👀 I’m interested in Making Informed Consumer Choise using Data!
+- 👀 I’m interested in productivity and personal development.
 <!--- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 🔗 My website/blog: dalislife.com
-- 🎬 Follow me on YouTube: 王大丽的生活 Dali's Life
+- 🔗 My website/blog: dali-wang.com
+- ㊓ Twitter: @daliwang888
+- 🎬 Follow me on YouTube: 王大丽的生活 Dali Wang
 - 📫 Reach me at dali.wang888@gmail.com
 
 <!---
